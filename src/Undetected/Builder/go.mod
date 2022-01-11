@@ -1,4 +1,4 @@
-module github.com/StampyGumball/pirate-stealer-by-bytixo/tree/main/src/Undetected/Builder
+module github.com/adbpush/one-last-time/tree/main/src/Undetected/Builder
 
 go 1.17
 
